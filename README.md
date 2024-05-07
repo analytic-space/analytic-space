@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Sri  
+## 👋 Hello, I'm Sri!
 ### ✨  Welcome, to my Analytic Space!
 
 🌱 I focus on everyday business intelligence, emphasizing 'empathetic information design' to prioritize and identify opportunities within business problems.
