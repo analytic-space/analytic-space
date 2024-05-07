@@ -1,11 +1,11 @@
 ## 👋 Hello, I'm Sri!
 ### ✨  Welcome, to my Analytic Space!
 
-🌱 I focus on everyday business intelligence, emphasizing 'empathetic information design' to prioritize and identify opportunities within business problems.\
+🌱 I focus on everyday business intelligence, emphasizing 'empathetic information design' to prioritize and identify opportunities within business problems.
 
-😄 Considering myself a minimalist data visualizer, I enjoy learning and discussing technologies like Power BI, DAX, ETL, SQL, and Excel skills.\
+😄 Considering myself a minimalist data visualizer, I enjoy learning and discussing technologies like Power BI, DAX, ETL, SQL, and Excel skills.
 
-📊 This repository is a collection of my personal projects, showcasing my evolving skills as I learn.\
+📊 This repository is a collection of my personal projects, showcasing my evolving skills as I learn.
 
 🤔 I’m looking for help with Job oppurtunities in data analyst roles.
 
