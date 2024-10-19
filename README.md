@@ -6,6 +6,7 @@
 😄 Considering myself a minimalist, I enjoy learning and discussing technologies like ETL, SQL, and Cloud data engineering.
 
 📊 This repository is a collection of my personal projects, showcasing my evolving skills as I learn.
+
 ---
 
 ### 📫 Let's connect and learn 
